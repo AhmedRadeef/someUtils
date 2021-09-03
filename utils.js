@@ -1,6 +1,5 @@
-function product(a, b){
-    return a * b;
-    return a / b;  
+function subtract(a, b){
+    return a - b;
 }
 
-console.log(product(8, 4));
+console.log(subtract(8, 4));
